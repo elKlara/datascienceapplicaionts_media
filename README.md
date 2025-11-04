@@ -47,6 +47,7 @@ Der Kurs richtet sich an Studierende mit Schwerpunkt auf Medien- und Managementf
 ├── portfolio/         # Ergebnisse der Gruppenprojekte
 ├── resources/         # Zusatzmaterialien, Links, PDFs
 └── README.md          # Kursübersicht
+```
 
 ## ⚙️ Vorbereitung
 
