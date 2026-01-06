@@ -1,0 +1,31 @@
+datei,final_label,sentiment_score,positive_chunks,neutral_chunks,negative_chunks,anzahl_chunks
+atscher Hinrunde „Gefühlt gab es vi.txt,neutral,0.0,0,1,0,1
+basketball_eurosport.txt,neutral,0.0,0,2,0,2
+Bereits am Vormittag stieg im Biath.txt,neutral,0.0,0,1,0,1
+Carlos Alcaraz trennt sich von sein.txt,neutral,0.0,0,1,0,1
+Champions League.txt,neutral,0.0,0,2,0,2
+champions-league_eurosport.txt,neutral,0.0,0,1,0,1
+Der SSV Bozen steckt aktuell in ein.txt,neutral,0.0,0,1,0,1
+Die Bayern stehen schon im Viertelf.txt,neutral,0.0,0,1,0,1
+Die Scottish Open vom 15. bis zum 2.txt,neutral,0.0,0,1,0,1
+Ehemaliger Kitz-Sieger Sarrazin zur.txt,negative,-0.992,0,0,1,1
+Emma Aicher mischt den alpinen Ski-.txt,neutral,0.0,0,1,0,1
+environments.txt,negative,-0.492,0,1,1,2
+Europacup.txt,neutral,0.0,0,2,0,2
+Für den HC Eppan war es zweifelsohn.txt,neutral,0.0,0,1,0,1
+Für Gregoritsch zählt der Teamgeist.txt,neutral,0.0,0,1,0,1
+"Gasslitter ist gut, aber nicht gut.txt",negative,-0.975,0,0,1,1
+gemischte_gefühle_eurosport.txt,positive,0.586,1,0,0,1
+Gisin erlitt bei Sturz Halswirbelve.txt,neutral,0.0,0,1,0,1
+Heimniederlage für Detroit gegen Ut.txt,neutral,0.0,0,1,0,1
+Höll fährt künftig für Team Les Orr.txt,neutral,0.0,0,1,0,1
+manuel-neuer_eurosport.txt,neutral,0.0,0,1,0,1
+Marc-André Stegen konnte zufrieden.txt,neutral,0.0,0,1,0,1
+Mikutina bereits auf Olympia fokuss.txt,neutral,0.0,0,1,0,1
+Ohne Morant Grizzlies gewinnen bei.txt,neutral,0.0,0,1,0,1
+radsport_eurosport.txt,neutral,0.0,0,1,0,1
+Rapid gegen Omonia und den Unmut de.txt,neutral,0.0,0,1,0,1
+Ridnaun Unterweger und Botet sind d.txt,neutral,0.0,0,1,0,1
+Schwere Zeiten für Österreichs Abfa.txt,neutral,0.0,0,1,0,1
+ÖSV-Asse hoffen auf Podestplatz in.txt,neutral,0.0,0,1,0,1
+„Unerträgliche“ Drohungen Celtic-Bo.txt,negative,-0.973,0,0,1,1
